@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "754824758177",
+    "firebase_url": "https://flutterapp-bd8e0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutterapp-bd8e0",
+    "storage_bucket": "flutterapp-bd8e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754824758177:android:edf0c33b5072c3b1c701e0",
+        "android_client_info": {
+          "package_name": "com.example.iraje_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0EVWu4eTnX8qQsyNPlfX8i8d70jmv6Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
